@@ -60,7 +60,7 @@
   + [결과물 링크](https://github.com/neip313/KDX_2020_project)
   + 결과 : 우수상(R러뷰 팀)
   ![](image/)
-
+- DACON : Data Science AI Competitions - DACON "소설 작가 분류 AI 경진대회"
 ## 아르바이트 
 ---  
 - 종합입시학원 '알고리즘' 보조카운셀러 및 멘토활동 _ 2013.12 ~ 2014.12  
