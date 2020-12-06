@@ -12,7 +12,7 @@
   - SQL
   - Big Query
 - 포스텍(Postech) 청년 AI·Big Data 아카데미 온라인 기초과정 (MOOC) 수료 
-  + 데이터사이언스를 위한 통계학입문Ⅰ_ 이혜선 교수 
+  + 데이터사이언스를 위한 통계학입문Ⅰ_ 이혜선 교수 [수료증](C:\Users\user\Desktop\Postech_AI_Big_Data_MOOC\image\데이터사이언스를 위한 통계학입문Ⅰ수료증.mhtml)
   + 데이터사이언스를 위한 통계학입문 II_ 이혜선 교수
   + 머신러닝기법과 R프로그래밍 I_ 이혜선 교수
   + 머신러닝기법과 R프로그래밍 II_ 이혜선 교수
