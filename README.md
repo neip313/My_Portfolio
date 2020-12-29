@@ -6,11 +6,12 @@
 - 2018.02 경희대학교 경제학과 졸업  
 - 평택시 4차 산업 인재육성 직업훈련 from 강림직업전문학교 _ 2020.08.21 ~ 2021.01.21
   + ERP 정보관리사 1개월(ERP 물류, 생산 관리 2급 자격증) 
-  + 빅데이터 4개월 
-  - R(R로 배우는 데이터 과학)
-  - PYTHON(파이썬 머신러닝 완벽가이드)
-  - SQL(하루 10분 SQL)
-  - Big Query
+  + 빅데이터 4개월  
+    - ADsP(데이터분석 준전문가 자격증) 합격
+    - R(R로 배우는 데이터 과학)
+    - PYTHON(파이썬 머신러닝 완벽가이드)
+    - SQL(하루 10분 SQL)
+    - Big Query
 - 포스텍(Postech) 청년 AI·Big Data 아카데미 온라인 기초과정 (MOOC) _ 2020.11.02 ~ 2021.01.14
   + 데이터사이언스를 위한 통계학입문Ⅰ_ 이혜선 교수 [수료증](https://pabi.smartlearn.io/certificates/6da6495cb40d4f91ad6d0834df21dcb1)
   + 데이터사이언스를 위한 통계학입문 II_ 이혜선 교수 [수료증](https://pabi.smartlearn.io/certificates/8b5ab7076ae946459efd02cc8ce05300)
