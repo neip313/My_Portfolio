@@ -19,6 +19,7 @@
   + 머신러닝기법과 R프로그래밍 II_ 이혜선 교수[12시간] [수료증](https://pabi.smartlearn.io/certificates/fbb141b9136a42539e47171308094c23)
   + Computational Thinking (컴퓨팅 사고) Ⅰ_ 박성우 교수[12시간] [수료증](https://pabi.smartlearn.io/certificates/4a9a37cc1e514d6591582ff0886e19de)
   + 특강: 데이터사이언스-열린 데이터세상_ 이혜선 교수[1시간] 
+  + 특강: 블록체인 및 암호화폐 입문(1) _ 홍원기 교수[1시간]
 
 
 ## 경력 
