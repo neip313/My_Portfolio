@@ -32,7 +32,7 @@
   
 - AIVE LABS
   - 기간 : 2021.02.08 ~ 2021.07.31
-  - 직급 : Data Scientist(인턴)
+  - 직급 : Data Scientist
   - 담당업무
     - AI D2I 알고리즘 개발 및 지원 
     - 빅데이터 분석 및 플랫폼 개발 및 지원
