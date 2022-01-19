@@ -11,6 +11,7 @@
     - R
     - PYTHON
     - SQL
+    - CRAWLING
     - Big Query
 - 포스텍(Postech) 청년 AI·Big Data 아카데미 온라인 기초과정 (MOOC) _ 2020.11.02 ~ 2021.01.14
   + 데이터사이언스를 위한 통계학입문Ⅰ_ 이혜선 교수[12시간] [수료증](https://pabi.smartlearn.io/certificates/6da6495cb40d4f91ad6d0834df21dcb1)
